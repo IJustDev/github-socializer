@@ -1,0 +1,15 @@
+{
+  "name": "follow-github",
+  "version": "0.0.1",
+  "description": "Follow contributors of diverse repositories on GitHub",
+  "main": "index.js",
+  "scripts": {
+      "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "IJustDev",
+  "license": "ISC",
+  "dependencies": {
+    "github-api": "^3.3.0"
+  }
+}
