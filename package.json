@@ -1,6 +1,6 @@
 {
   "name": "follow-github",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Follow contributors of diverse repositories on GitHub",
   "main": "index.js",
   "scripts": {
